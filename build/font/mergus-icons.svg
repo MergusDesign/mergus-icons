@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Mon Jun 20 15:56:29 2016
+Created by FontForge 20160405 at Mon Jun 20 16:21:43 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20160405 at Mon Jun 20 15:56:29 2016
     bbox="1 -11 95 83"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-E842"
+    unicode-range="U+E83F-E843"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -38,5 +38,10 @@ d="M1 77h19.5h23h19.5v-20h-6h-7.5h-6.5v-31v-31h-21v30.5v31.5h-21v20zM74 77h6.5h8
 d="M3 64h28l26 -29l-27 -27h-27l28 27zM39 64h28l26 -29l-27 -27h-27l28 27z" />
     <glyph glyph-name="correoarg" unicode="&#xe842;" 
 d="M48 75q10 0 19 -5h-10l-32 -36q7 4 15 4q5 0 10 -2q2 -1 4.5 -2t4.5 -2l22 25q6 -10 6 -21q0 -16 -11.5 -27.5t-27.5 -11.5t-27 11.5t-11 27.5t11 27.5t27 11.5zM67 70h26l-12 -13q-5 8 -14 13z" />
+    <glyph glyph-name="ml-hands" unicode="&#xe843;" 
+d="M48 62q20 0 33.5 -7.5t13.5 -18.5t-13.5 -18.5t-33.5 -7.5t-33.5 7.5t-13.5 18.5t13.5 18.5t33.5 7.5zM47.5 60q-18.5 0 -31 -6.5t-12.5 -16.5t15 -17v1q-12 8 -10 18q0 1 3 0q1 0 3 -0.5t4 -1.5t3 -1t4 -1l3 -2q4 0 4 -1l1 -1l0.5 0.5l1.5 1.5q2 0 3 -1l1 -1q4 0 5 -3
+q2 -1 2.5 -3.5l0.5 -2.5h2t1 1q1 1 0 2h-1l1 -0.5t2 -0.5h2q1 2 -1 3l-3 3q1 -1 2.5 -2t2.5 -1q2 -2 3 -1q2 2 -1 4q-5 4 -5 5q6 -4 7 -5q2 -1 3 0t0 2q-4 5 -13 12h-3h-3l5 1l4 -2q1 -1 3 -2.5t3 -2.5l2 -2t2 -1v-0.5t1 -0.5q0 -1 1 0l9 3q4 1 10 1l3 1q0 -7 -3 -11
+q-4 -5 -8 -8h0.5h0.5q15 8 15 17q0 10 -13 16.5t-31.5 6.5zM50 58q15 -1 27 -7l-12 -5q-6 -1 -12 2t-11 0l-4 -4v1h-2.5h-2.5q-3 1 -13 7q13 7 30 6zM31 32q2 0 2 -1q0 -2 -1 -2q-2 0 -2 2q0 1 1 1zM37 31q-2 1 -3 -1t1 -3q1 -1 2 0q0 -2 1 -2q2 -2 4 1q2 2 0 4q-1 1 -3 0
+q0 1 -0.5 1h-1.5zM45 26h1q2 -1 1 -3q-2 -2 -4 -1t-1 3t3 1z" />
   </font>
 </defs></svg>
