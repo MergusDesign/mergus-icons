@@ -34,7 +34,7 @@
   user-select: none;
   speak: none;
 }
-..mega-mgi { font-size: 32px; }
+.mega-mgi { font-size: 32px; }
 <% if (iconsStyles) { for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { %>
 .<%= classPrefix %><%= glyphs[glyphIdx] %>:before { content:"\<%= codepoints[glyphIdx] %>"; }
 <% } } %>
