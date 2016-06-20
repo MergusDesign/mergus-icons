@@ -1,0 +1,38 @@
+
+@font-face {
+  font-family:"Mergus-icons";
+  src:url("mergus-icons.eot?7e66898e582fa94db2988f223e23d74d");
+  src:url("mergus-icons.eot?#iefix") format("embedded-opentype"),
+		url("mergus-icons.woff2?7e66898e582fa94db2988f223e23d74d") format("woff2"),
+		url("mergus-icons.woff?7e66898e582fa94db2988f223e23d74d") format("woff"),
+		url("mergus-icons.ttf?7e66898e582fa94db2988f223e23d74d") format("truetype"),
+		url("mergus-icons.svg?7e66898e582fa94db2988f223e23d74d#mergus-icons") format("svg");
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+/*
+
+.mgi is optimized for 16px.
+.mega-mgi is optimized for 32px but can be used larger.
+
+*/
+.mgi, .mega-mgi {
+  font: normal normal normal 16px/1 Mergus-icons;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  speak: none;
+}
+.mega-mgi { font-size: 32px; }
+
+.mgi-alert:before { content:"\f101"; }
+
+.mgi-taringa:before { content:"\f0e5"; }
+
