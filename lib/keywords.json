@@ -1,1 +1,38 @@
-{}
+{
+  "correoarg": {
+    "keywords": [
+      "mail",
+      "shipping",
+      "correo"
+    ]
+  },
+  "ml-hands": {
+    "keywords": [
+      "hands",
+      "mercado libre",
+      "mercadolibre",
+      "sell"
+    ]
+  },
+  "mergus": {
+    "keywords": [
+      "mergus",
+      "design",
+      "duck",
+      "hexagon"
+    ]
+  },
+  "oca": {
+    "keywords": [
+      "mail",
+      "shipping",
+      "correo"
+    ]
+  },
+  "taringa": {
+    "keywords": [
+      "taringa icon",
+      "t"
+    ]
+  }
+}
