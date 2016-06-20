@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Mon Jun 20 14:05:03 2016
+Created by FontForge 20160405 at Mon Jun 20 15:00:15 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -15,10 +15,10 @@ Created by FontForge 20160405 at Mon Jun 20 14:05:03 2016
     panose-1="2 0 5 9 0 0 0 0 0 0"
     ascent="84"
     descent="-12"
-    bbox="0.857143 -6 95.1429 78"
+    bbox="1 -11 95 83"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+F0E5-F101"
+    unicode-range="U+E83F-E840"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -28,9 +28,11 @@ d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
  />
     <glyph glyph-name="nonmarkingreturn" 
  />
-    <glyph glyph-name="taringa" unicode="&#xf0e5;" 
+    <glyph glyph-name="mergus" unicode="&#xe83f;" 
+d="M48 83l31 -23v-48l-31 -23l-31 23v48zM43 71q-11 0 -10 -10q-4 -1 -8 -1q-1 0 -2 -1q-3 -2 0 -4v0h2t4.5 -0.5t4.5 -0.5v-1q0 -1 1 -7q0 -2 -0.5 -7t-0.5 -7q0 -7 11 -11q1 -4 3 -4q1 -4 0 -8h-7q0 -1 -2 -1q3 -1 1 -2q2 0 10 1q0 8 1 10q1 0 1 1q4 -3 6 -3q2 -6 2 -9
+q-4 -1 -9 -1q2 -1 0 -3q4 1 4 -1q3 2 8 3q-2 3 -3 12q1 2 1 3t2 2q5 0 7 3t0 3q4 3 4 9q-1 -2 -3 -2q2 3 0 7q-1 -4 -4 -5q-3 0 -9 4l-2 2q0 1 -1 1q-1 1 -3 1h-3.5t-3 0.5t-1.5 1.5q-1 2 -1 3.5t2 6.5t3 7v4q3 -7 5 -7q6 -1 8 4q-4 -3 -7 -2t-7 6q0 2 -2 3h-2zM35 66
+q-1 0 -2 -2q0 -2 1 -2t1 0.5t1 1.5q0 2 -1 2zM41 65q-2 0 -2 -2t1 -3q1 0 1.5 0.5t0.5 1.5q0 3 -1 3v0zM35 65v-1v0v-1q-1 0 -1 0.5t1 0.5v1zM41 63v0v0v-1t-1 -1v1.5t1 0.5z" />
+    <glyph glyph-name="taringa" unicode="&#xe840;" 
 d="M1 77h19.5h23h19.5v-20h-6h-7.5h-6.5v-31v-31h-21v30.5v31.5h-21v20zM74 77h6.5h8h6.5v-28v-29h-21v57zM74 15h21v-20h-21v20z" />
-    <glyph glyph-name="alert" unicode="&#xf101;" 
-d="M53 75l41 -72q2 -3 0.5 -6t-5.5 -3h-82q-4 0 -5.5 3t0.5 6l41 72q1 3 4.5 3t5.5 -3zM54 6v12h-12v-12h12zM54 24v24h-12v-24h12z" />
   </font>
 </defs></svg>
