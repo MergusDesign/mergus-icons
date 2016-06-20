@@ -1,0 +1,26 @@
+{
+  "name": "mergus-icons",
+  "description": "A icon set from mergus",
+  "license": "MIT",
+  "authors": [
+    "Mergus Design"
+  ],
+  "main": [
+    ".js",
+    ".css"
+  ],
+  "keywords": [
+    "mergus",
+    "icons",
+    "font",
+    "web font",
+    "icon font",
+    "svg",
+    "mergus-icons"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "version": "0.0.2"
+}

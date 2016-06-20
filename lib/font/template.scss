@@ -1,0 +1,42 @@
+$mergus-icons-font-path: "./" !default;
+
+<% if (fontfaceStyles) { %>
+<% if (fontSrc1 && embed.length) { %>
+@font-face {
+  font-family:"<%= fontFamilyName %>";
+  src:<%= fontSrc1.replace(/url\("/gi, "url(\"#{$mergus-icons-font-path}") %>;
+  font-weight:normal;
+  font-style:normal;
+}
+<% } %>@font-face {
+  font-family:"<%= fontFamilyName %>";<% if (fontSrc1) { %>
+  src:<%= fontSrc1.replace(/url\("/gi, "url(\"#{$mergus-icons-font-path}") %>;<% }%>
+  src:<%= fontSrc2.replace(/url\("/gi, "url(\"#{$mergus-icons-font-path}") %>;
+  font-weight:normal;
+  font-style:normal;
+}
+<% } %>
+
+/*
+
+.mgi is optimized for 16px.
+.mega-mgi is optimized for 32px but can be used larger.
+
+*/
+.mgi, .mega-mgi {
+  font: normal normal normal 16px/1 <%= fontFamilyName %>;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  speak: none;
+}
+.mega-mgi { font-size: 32px; }
+<% if (iconsStyles) { for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { %>
+.<%= classPrefix %><%= glyphs[glyphIdx] %>:before { content:"\<%= codepoints[glyphIdx] %>"; }
+<% } } %>
