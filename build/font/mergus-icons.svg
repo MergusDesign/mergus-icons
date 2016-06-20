@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Mon Jun 20 15:00:15 2016
+Created by FontForge 20160405 at Mon Jun 20 15:44:42 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20160405 at Mon Jun 20 15:00:15 2016
     bbox="1 -11 95 83"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-E840"
+    unicode-range="U+E83F-E841"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -34,5 +34,7 @@ q-4 -1 -9 -1q2 -1 0 -3q4 1 4 -1q3 2 8 3q-2 3 -3 12q1 2 1 3t2 2q5 0 7 3t0 3q4 3 4
 q-1 0 -2 -2q0 -2 1 -2t1 0.5t1 1.5q0 2 -1 2zM41 65q-2 0 -2 -2t1 -3q1 0 1.5 0.5t0.5 1.5q0 3 -1 3v0zM35 65v-1v0v-1q-1 0 -1 0.5t1 0.5v1zM41 63v0v0v-1t-1 -1v1.5t1 0.5z" />
     <glyph glyph-name="taringa" unicode="&#xe840;" 
 d="M1 77h19.5h23h19.5v-20h-6h-7.5h-6.5v-31v-31h-21v30.5v31.5h-21v20zM74 77h6.5h8h6.5v-28v-29h-21v57zM74 15h21v-20h-21v20z" />
+    <glyph glyph-name="oca" unicode="&#xe841;" 
+d="M3 64h28l26 -29l-27 -27h-27l28 27zM39 64h28l26 -29l-27 -27h-27l28 27z" />
   </font>
 </defs></svg>
