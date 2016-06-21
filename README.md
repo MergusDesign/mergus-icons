@@ -2,7 +2,7 @@
 
 >mergus-icons it's a hard-to-get set of scalable icons
 
-![ ](mergus-icons/lib/svg/mergus.svg  "mgi-mergus") ![](mergus-icons/lib/svg/correoarg.svg) ![](mergus-icons/lib/svg/ml-hands.svg) ![](mergus-icons/lib/svg/oca.svg) ![](mergus-icons/lib/svg/taringa.svg) 
+![ ](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg  "mgi-mergus") ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg) ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg) ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg) ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg) 
 
  
 ###Usage
@@ -16,31 +16,31 @@ or
 	<span class="mega-mgi mgi-mergus"></span>
 
 ####mgi-correoarg
-![](mergus-icons/lib/svg/correoarg.svg) 
+![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg) 
 
 	<span class="mgi mgi-correoarg"></span>
 	<span class="mega-mgi mgi-correoarg"></span>
 
 ####mgi-mergus
-![](mergus-icons/lib/svg/mergus.svg) 
+![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg) 
 
-	<span class="mgi mgi-correoarg"></span>
-	<span class="mega-mgi mgi-correoarg"></span>
+	<span class="mgi mgi-mergus"></span>
+	<span class="mega-mgi mgi-mergus"></span>
 
 ####mgi-ml-hands
-![](mergus-icons/lib/svg/ml-hands.svg) 
+![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg) 
 
 	<span class="mgi mgi-ml-hands"></span>
 	<span class="mega-mgi mgi-ml-hands"></span>
 
 ####mgi-oca
-![](mergus-icons/lib/svg/oca.svg) 
+![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg) 
 
 	<span class="mgi mgi-oca"></span>
 	<span class="mega-mgi mgi-oca"></span>
 
 ####mgi-taringa
-![](mergus-icons/lib/svg/taringa.svg) 
+![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg) 
 
 	<span class="mgi mgi-taringa"></span>
 	<span class="mega-mgi mgi-taringa"></span>
