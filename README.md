@@ -1,9 +1,24 @@
 #mergus-icons
 
->mergus-icons it's a hard-to-get set of scalable icons
+<p align="center">
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg">
+</span>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg">
+</span>
+<span>
+<img height="64" width="64" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg">
+</span>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg">
+</span>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg">
+</span>
+</p>
 
-![ ](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg  "mgi-mergus") ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg) ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg) ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg) ![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg) 
-
+<p align="center">mergus-icons it's a hard-to-get set of scalable icons</p>
  
 ###Usage
 
