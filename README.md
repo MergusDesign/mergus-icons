@@ -1,8 +1,9 @@
 #mergus-icons
 
+>mergus-icons it's a hard-to-get set of scalable icons
+
 ![ ](mergus-icons/lib/svg/mergus.svg  "mgi-mergus") ![](mergus-icons/lib/svg/correoarg.svg) ![](mergus-icons/lib/svg/ml-hands.svg) ![](mergus-icons/lib/svg/oca.svg) ![](mergus-icons/lib/svg/taringa.svg) 
 
->mergus-icons it's a hard-to-get set of scalable icons
  
 ###Usage
 
@@ -44,6 +45,14 @@ or
 	<span class="mgi mgi-taringa"></span>
 	<span class="mega-mgi mgi-taringa"></span>
 
+###Request an icon? Yes, sure!
+Just open an [**issue**](https://github.com/MergusDesign/mergus-icons/issues) with the "new icon" label. The more information and references you leave us, the better!
+
+
+###License
+All font files and SVG files are under [SIL OFL 1.1 License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) 
+
+All other files are under [MIT License](https://opensource.org/licenses/mit-license.html) 
 
 ###Credits
 Based on [octicons](https://github.com/primer/octicons)
