@@ -8,7 +8,7 @@
 <img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg">
 </span>
 <span>
-<img height="64" width="64" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg">
+<img height="50" width="" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg">
 </span>
 <span>
 <img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg">
@@ -31,31 +31,56 @@ or
 	<span class="mega-mgi mgi-mergus"></span>
 
 ####mgi-correoarg
-![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg) 
+
+<p>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg">
+</span>
+</p>
 
 	<span class="mgi mgi-correoarg"></span>
 	<span class="mega-mgi mgi-correoarg"></span>
 
 ####mgi-mergus
-![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg) 
+
+<p>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg">
+</span>
+</p> 
 
 	<span class="mgi mgi-mergus"></span>
 	<span class="mega-mgi mgi-mergus"></span>
 
 ####mgi-ml-hands
-![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg) 
+
+<p>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg">
+</span>
+</p>
 
 	<span class="mgi mgi-ml-hands"></span>
 	<span class="mega-mgi mgi-ml-hands"></span>
 
 ####mgi-oca
-![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg) 
+
+<p>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg">
+</span>
+</p>
 
 	<span class="mgi mgi-oca"></span>
 	<span class="mega-mgi mgi-oca"></span>
 
 ####mgi-taringa
-![](https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg) 
+
+<p>
+<span>
+<img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg">
+</span>
+</p>
 
 	<span class="mgi mgi-taringa"></span>
 	<span class="mega-mgi mgi-taringa"></span>
