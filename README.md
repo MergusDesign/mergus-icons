@@ -1,5 +1,8 @@
 #mergus-icons
 
+##*Still in beta*
+
+
 <p align="center">
 <span>
 <img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg">
@@ -19,7 +22,7 @@
 </p>
 
 <p align="center">mergus-icons it's a hard-to-get set of scalable icons</p>
- 
+
 ###Usage
 
 All icons require the class **mgi** as base, followed by the individual icon class. This class, can be changed to **mega-mgi** class to easily get a bigger icon.
@@ -47,7 +50,7 @@ or
 <span>
 <img height="32" width="32" src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg">
 </span>
-</p> 
+</p>
 
 	<span class="mgi mgi-mergus"></span>
 	<span class="mega-mgi mgi-mergus"></span>
@@ -90,9 +93,9 @@ Just open an [**issue**](https://github.com/MergusDesign/mergus-icons/issues) wi
 
 
 ###License
-All font files and SVG files are under [SIL OFL 1.1 License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) 
+All font files and SVG files are under [SIL OFL 1.1 License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
-All other files are under [MIT License](https://opensource.org/licenses/mit-license.html) 
+All other files are under [MIT License](https://opensource.org/licenses/mit-license.html)
 
 ###Credits
 Based on [octicons](https://github.com/primer/octicons)
