@@ -2,6 +2,7 @@
 - add images to readme
 - add beta message to readme
 - add pagomiscuentas logo
+- add olx logo
 
 ### 0.0.2 (June 20, 2016)
 - add disclaimer to readme

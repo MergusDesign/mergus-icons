@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Wed Jun 22 10:26:20 2016
+Created by FontForge 20160405 at Wed Jun 22 10:59:02 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20160405 at Wed Jun 22 10:26:20 2016
     bbox="1 -11 95 83"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-E844"
+    unicode-range="U+E83F-E845"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -46,5 +46,8 @@ q0 1 -0.5 1h-1.5zM45 26h1q2 -1 1 -3q-2 -2 -4 -1t-1 3t3 1z" />
     <glyph glyph-name="pagomiscuentas" unicode="&#xe844;" 
 d="M22 66h20l-1 -7q-1 -4 -5 -4h-20l1 8q1 2 5 3zM56 66h25q6 0 10 -5.5t3 -14.5q0 -6 -5.5 -11.5t-14.5 -6.5h-15l-3 -22h-12l7 55q1 5 5 5zM63 54l-2 -16h12q7 1 8 7q1 8 -4 9h-14zM8 42h31l-1 -8q-1 -3 -5 -4h-31l1 8q0 3 5 4zM15 17h20l-1 -8q-1 -3 -5 -3h-20l1 7
 q1 3 5 4z" />
+    <glyph glyph-name="olx" unicode="&#xe845;" 
+d="M94 13l-13 21l10 15q2 3 -0.5 4.5t-5.5 -1.5l-9 -11l-7 10q-2 3 -5.5 1.5t-2.5 -4.5l8 -15l-11 -12q-3 -3 0 -7l2 -4q2 -3 5 0l9 13l7 -13q1 -4 5 -3l7 2q3 1 1 4v0zM19.5 23q-8.5 0 -8.5 14.5t8.5 14.5t8.5 -14.5t-8.5 -14.5zM19 59q-7 0 -12.5 -6t-5.5 -15t5.5 -15
+t12.5 -6q5 0 9.5 2.5t6.5 7.5t2 11q0 9 -5 15t-13 6v0zM43 65q-4 0 -3 -4v-28q0 -4 4 -4h15q4 0 4 3v4q0 3 -4 3h-6q-3 0 -3 2v20q0 4 -3 4h-4v0z" />
   </font>
 </defs></svg>
