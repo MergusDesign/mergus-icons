@@ -3,12 +3,12 @@ $mergus-icons-font-path: "./" !default;
 
 @font-face {
   font-family:"Mergus-icons";
-  src:url("#{$mergus-icons-font-path}mergus-icons.eot?acf8c345cb39dadd851c1118e492bb32");
+  src:url("#{$mergus-icons-font-path}mergus-icons.eot?0f3c4caaea543ef449090fe4a6c3b42e");
   src:url("#{$mergus-icons-font-path}mergus-icons.eot?#iefix") format("embedded-opentype"),
-		url("#{$mergus-icons-font-path}mergus-icons.woff2?acf8c345cb39dadd851c1118e492bb32") format("woff2"),
-		url("#{$mergus-icons-font-path}mergus-icons.woff?acf8c345cb39dadd851c1118e492bb32") format("woff"),
-		url("#{$mergus-icons-font-path}mergus-icons.ttf?acf8c345cb39dadd851c1118e492bb32") format("truetype"),
-		url("#{$mergus-icons-font-path}mergus-icons.svg?acf8c345cb39dadd851c1118e492bb32#mergus-icons") format("svg");
+		url("#{$mergus-icons-font-path}mergus-icons.woff2?0f3c4caaea543ef449090fe4a6c3b42e") format("woff2"),
+		url("#{$mergus-icons-font-path}mergus-icons.woff?0f3c4caaea543ef449090fe4a6c3b42e") format("woff"),
+		url("#{$mergus-icons-font-path}mergus-icons.ttf?0f3c4caaea543ef449090fe4a6c3b42e") format("truetype"),
+		url("#{$mergus-icons-font-path}mergus-icons.svg?0f3c4caaea543ef449090fe4a6c3b42e#mergus-icons") format("svg");
   font-weight:normal;
   font-style:normal;
 }
@@ -41,6 +41,8 @@ $mergus-icons-font-path: "./" !default;
 .mgi-ml-hands:before { content:"\e843"; }
 
 .mgi-oca:before { content:"\e841"; }
+
+.mgi-pagomiscuentas:before { content:"\e844"; }
 
 .mgi-taringa:before { content:"\e840"; }
 
