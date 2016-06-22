@@ -3,6 +3,7 @@
 - add beta message to readme
 - add pagomiscuentas logo
 - add olx logo
+- add dineromail dm logo
 
 ### 0.0.2 (June 20, 2016)
 - add disclaimer to readme
