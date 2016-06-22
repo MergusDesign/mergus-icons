@@ -5,6 +5,7 @@
 - add olx logo
 - add dineromail dm logo
 - add dineromail logo
+- add ml mercado libre logo
 
 ### 0.0.2 (June 20, 2016)
 - add disclaimer to readme
