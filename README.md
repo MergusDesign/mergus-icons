@@ -6,7 +6,9 @@
 </span>
 </p>
 
-<p align="center">mergus-icons it's a hard-to-get set of scalable icons comonly used in Argentina</p>
+<p align="center">mergus-icons it's a hard-to-get set of scalable icons comonly used in Argentina
+<br>
+<strong>v0.9.0beta</strong></p>
 
 <table>
   <tr align="center">
