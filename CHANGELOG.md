@@ -1,6 +1,6 @@
 ### HEAD
 
-### 1.0 (June 23, 2016)
+### 0.9.0beta (June 23, 2016)
 - add images to readme
 - add beta message to readme
 - add pagomiscuentas logo
@@ -10,6 +10,7 @@
 - add ml mercado libre logo
 - add css classes to control icons
 - update readme
+- add bower and nmp install
 
 ### 0.0.2 (June 20, 2016)
 - add disclaimer to readme
