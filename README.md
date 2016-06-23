@@ -6,7 +6,7 @@
 </span>
 </p>
 
-<p align="center">mergus-icons it's a hard-to-get set of scalable icons commonly used in Argentina</p>
+<p align="center">mergus-icons it's a hard-to-get set of scalable icons</p>
 
 <table>
   <tr align="center">
@@ -57,9 +57,16 @@
 
 
 ###Getting started
-Include the folder [build](https://github.com/MergusDesign/mergus-icons/tree/master/build)  into your project, and if it's a web project, add the following line to your html with the respective path:
+Install the package with:
 
-	<link rel="stylesheet" type="text/css" href="../build/font/mergus-icons.min.css">
+	npm install --save mergus-icons
+or
+
+	bower install --save mergus-icons
+
+In the < head > of your html, reference the location to your mergus-icons.min.css:
+
+	<link rel="stylesheet" href="path/to/build/font/mergus-icons.min.css">
 
 ###Usage
 
