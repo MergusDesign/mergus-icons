@@ -8,54 +8,52 @@
 
 <p align="center">mergus-icons it's a hard-to-get set of scalable icons</p>
 
-<p align="center">
-<table id="second" style="text-align: center">
-    <tr>
-      <td id="correoarg" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg" height="32" width="32">
-        <p>mgi-correoarg</p>
-      </td>
-      <td id="dineromail" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail.svg" height="32" width="32">
-        <p>mgi-dineromail</p>
-      </td>
-      <td id="dineromail-dm" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail-dm.svg" height="32" width="32">
-        <p>mgi-dineromail-dm</p>
-      </td>
-      <td id="ml" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml.svg" height="32" width="32">
-        <p>mgi-ml</p>
-      </td>
-      <td id="ml-hands" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg" height="32" width="32">
-        <p>mgi-ml-hands</p>
-      </td>
-    </tr>
-    <tr>
-      <td id="mergus" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg" height="32" width="32">
-        <p>mgi-mergus</p>
-      </td>
-      <td id="oca" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg" height="32" width="32">
-        <p>mgi-oca</p>
-      </td>
-      <td id="olx" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/olx.svg" height="32" width="32">
-        <p>mgi-olx</p>
-      </td>
-      <td id="pagomiscuentas" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pagomiscuentas.svg" height="32" width="32">
-        <p>mgi-pagomiscuentas</p>
-      </td>
-      <td id="taringa" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg" height="32" width="32">
-        <p>mgi-taringa</p>
-      </td>
-    </tr>
-  </table>
-</p>
+<table>
+  <tr align="center">
+    <td id="correoarg" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg" height="32" width="32">
+      <p>mgi-correoarg</p>
+    </td>
+    <td id="dineromail" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail.svg" height="32" width="32">
+      <p>mgi-dineromail</p>
+    </td>
+    <td id="dineromail-dm" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail-dm.svg" height="32" width="32">
+      <p>mgi-dineromail-dm</p>
+    </td>
+    <td id="ml" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml.svg" height="32" width="32">
+      <p>mgi-ml</p>
+    </td>
+    <td id="ml-hands" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg" height="32" width="32">
+      <p>mgi-ml-hands</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td id="mergus" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg" height="32" width="32">
+      <p>mgi-mergus</p>
+    </td>
+    <td id="oca" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg" height="32" width="32">
+      <p>mgi-oca</p>
+    </td>
+    <td id="olx" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/olx.svg" height="32" width="32">
+      <p>mgi-olx</p>
+    </td>
+    <td id="pagomiscuentas" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pagomiscuentas.svg" height="32" width="32">
+      <p>mgi-pagomiscuentas</p>
+    </td>
+    <td id="taringa" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg" height="32" width="32">
+      <p>mgi-taringa</p>
+    </td>
+  </tr>
+</table>
 
 
 ###Getting started
@@ -75,34 +73,25 @@ You can also use the svg files individually, you can find them in the folder [/b
 
 ###Helper classes
 
-- Larger icons
-**mgi-lg** makes the font 33% larger relative to the icon container.
+- **Larger icons:** The class **mgi-lg** makes the font 33% larger relative to the icon container.
 **mgi-2x**, **mgi-3x**, **mgi-4x**, **mgi-5x** make the font x times larger relative to the icon container.
 
-- Fixed Width Icons
-**mgi-fw** sets icons at a fixed width.
+- **Fixed Width Icons:** **mgi-fw** sets icons at a fixed width.
 
-- List Icons
-**mgi-ul** and **mgi-li** are used to replace default bullets in unordered lists.
+- **List Icons:** **mgi-ul** and **mgi-li** are used to replace default bullets in unordered lists.
 
-- Bordered & Pulled Icons
-**mgi-border** creates a border around the icon and it can be combined with **mgi-pull-left** or **mgi-pull-right** to make an icon stand out.
+- **Bordered & Pulled Icons:** **mgi-border** creates a border around the icon and it can be combined with **mgi-pull-left** or **mgi-pull-right** to make an icon stand out.
 
-- Animated Icons
-**mgi-spin** makes icons rotate and use **mgi-pulse** to make the icon rotate with 8 steps.
+- **Animated Icons:** **mgi-spin** makes icons rotate and use **mgi-pulse** to make the icon rotate with 8 steps.
 
-- Rotate & Flip
-**mgi-rotate-90**, **mgi-rotate-180** and **mgi-rotate-270** make icons to rotate X degrees over itself.
+- **Rotate & Flip:** Use **mgi-rotate-90**, **mgi-rotate-180** and **mgi-rotate-270** to rotate icons X degrees over itself.
 Use **mgi-flip-horizontal** and **mgi-flip-vertical** to make icons flip horizontally or vertically.
 
-- Stacked Icons
-To stack multiple icons, use the **mgi-stack** class on the parent, the **mgi-stack-1x** for the regularly sized icon, and **mgi-stack-2x** for the larger icon.
+- **Stacked Icons:** To stack multiple icons, use the **mgi-stack** class on the parent, the **mgi-stack-1x** for the regularly sized icon, and **mgi-stack-2x** for the larger icon.
 
-- Inverse color
-**mgi-inverse** makes icons to change its color to white.
+- **Inverse color:** **mgi-inverse** makes icons to change its color to white.
 
-- Accessibility
-**sr-only** allows to add alternative information such as displays and text for screen readers.
+- **Accessibility:** **sr-only** allows to add alternative information such as displays and text for screen readers.
 
 
 ###Request an icon? Yes, sure!
@@ -114,7 +103,7 @@ All font files and SVG files are under [SIL OFL 1.1 License](http://scripts.sil.
 All other files are under [MIT License](https://opensource.org/licenses/mit-license.html)
 
 ###Credits
-Based on [Octicons](https://github.com/primer/octicons) and [Font Awesome](http://fontawesome.io/)
+Based on [Octicons](https://github.com/primer/octicons) and [Font Awesome](http://fontawesome.io/).
 
 ###Brand Icons
 
