@@ -6,6 +6,8 @@
 - add dineromail dm logo
 - add dineromail logo
 - add ml mercado libre logo
+- add css classes to control icons
+- update readme
 
 ### 0.0.2 (June 20, 2016)
 - add disclaimer to readme
