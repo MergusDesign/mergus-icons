@@ -1,4 +1,6 @@
 ### HEAD
+
+### 1.0 (June 23, 2016)
 - add images to readme
 - add beta message to readme
 - add pagomiscuentas logo
