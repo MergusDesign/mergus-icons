@@ -1,6 +1,6 @@
 {
   "name": "mergus-icons",
-  "description": "A icon set from mergus",
+  "description": "mergus-icons it's a hard-to-get set of scalable icons commonly used in Argentina",
   "license": "MIT",
   "authors": [
     "Mergus Design"
@@ -22,5 +22,6 @@
     "**/.*",
     "bower_components"
   ],
-  "version": "0.0.2"
+  "version": "0.9.0beta",
+  "homepage": "https://github.com/MergusDesign/mergus-icons"
 }

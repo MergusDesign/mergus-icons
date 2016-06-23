@@ -1,24 +1,21 @@
 
 @font-face {
   font-family:"Mergus-icons";
-  src:url("mergus-icons.eot?596fb645123914d270331b66ce9e4bde");
+  src:url("mergus-icons.eot?accc4e3cb790158940ceb919c4daa7dc");
   src:url("mergus-icons.eot?#iefix") format("embedded-opentype"),
-		url("mergus-icons.woff2?596fb645123914d270331b66ce9e4bde") format("woff2"),
-		url("mergus-icons.woff?596fb645123914d270331b66ce9e4bde") format("woff"),
-		url("mergus-icons.ttf?596fb645123914d270331b66ce9e4bde") format("truetype"),
-		url("mergus-icons.svg?596fb645123914d270331b66ce9e4bde#mergus-icons") format("svg");
+		url("mergus-icons.woff2?accc4e3cb790158940ceb919c4daa7dc") format("woff2"),
+		url("mergus-icons.woff?accc4e3cb790158940ceb919c4daa7dc") format("woff"),
+		url("mergus-icons.ttf?accc4e3cb790158940ceb919c4daa7dc") format("truetype"),
+		url("mergus-icons.svg?accc4e3cb790158940ceb919c4daa7dc#mergus-icons") format("svg");
   font-weight:normal;
   font-style:normal;
 }
 
 
 /*
-
-.mgi is optimized for 16px.
-.mega-mgi is optimized for 32px but can be used larger.
-
+.mgi is optimized for 16px. But can be used larger.
 */
-.mgi, .mega-mgi {
+.mgi {
   font: normal normal normal 16px/1 Mergus-icons;
   display: inline-block;
   text-decoration: none;
@@ -30,15 +27,209 @@
   user-select: none;
   speak: none;
 }
-.mega-mgi { font-size: 32px; }
 
 .mgi-correoarg:before { content:"\e842"; }
+
+.mgi-dineromail-dm:before { content:"\e846"; }
+
+.mgi-dineromail:before { content:"\e847"; }
 
 .mgi-mergus:before { content:"\e83f"; }
 
 .mgi-ml-hands:before { content:"\e843"; }
 
+.mgi-ml:before { content:"\e848"; }
+
 .mgi-oca:before { content:"\e841"; }
+
+.mgi-olx:before { content:"\e845"; }
+
+.mgi-pagomiscuentas:before { content:"\e844"; }
 
 .mgi-taringa:before { content:"\e840"; }
 
+
+/*makes the font 33% larger relative to the icon container */
+.mgi-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+/*makes the font x times larger relative to the icon container */
+.mgi-2x {
+  font-size: 2em;
+}
+.mgi-3x {
+  font-size: 3em;
+}
+.mgi-4x {
+  font-size: 4em;
+}
+.mgi-5x {
+  font-size: 5em;
+}
+/*sets icons at a fixed width*/
+.mgi-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+/*used to replace default bullets in unordered lists*/
+.mgi-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+.mgi-ul > li {
+  position: relative;
+}
+.mgi-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+.mgi-li.mgi-lg {
+  left: -1.85714286em;
+}
+/*creates a border around the icon*/
+.mgi-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+/*makes icons float to the right or left*/
+.mgi-pull-left {
+  float: left;
+}
+.mgi-pull-right {
+  float: right;
+}
+.mgi.mgi-pull-left {
+  margin-right: .3em;
+}
+.mgi.mgi-pull-right {
+  margin-left: .3em;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.mgi.pull-left {
+  margin-right: .3em;
+}
+.mgi.pull-right {
+  margin-left: .3em;
+}
+/*makes icons to rotate*/
+.mgi-spin {
+  -webkit-animation: mgi-spin 2s infinite linear;
+  animation: mgi-spin 2s infinite linear;
+}
+/*makes icons to rotate with 8 steps*/
+.mgi-pulse {
+  -webkit-animation: mgi-spin 1s infinite steps(8);
+  animation: mgi-spin 1s infinite steps(8);
+}
+@-webkit-keyframes mgi-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes mgi-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+/*makes icon to rotate X degrees over itself*/
+.mgi-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.mgi-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.mgi-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+/*makes icon to flip horizontally or vertically*/
+.mgi-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.mgi-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+:root .mgi-rotate-90,
+:root .mgi-rotate-180,
+:root .mgi-rotate-270,
+:root .mgi-flip-horizontal,
+:root .mgi-flip-vertical {
+  -webkit-filter: none;
+          filter: none;
+}
+/*To stack multiple icons, use the mgi-stack class on the parent, the mgi-stack-1x for the regularly sized icon, and mgi-stack-2x for the larger icon.*/
+.mgi-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.mgi-stack-1x,
+.mgi-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.mgi-stack-1x {
+  line-height: inherit;
+}
+.mgi-stack-2x {
+  font-size: 2em;
+}
+.mgi-inverse {
+  color: #ffffff;
+}
+/*allows to add alternative information such as displays and text for screen readers*/
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.sr-only-focusable:active,
+.sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}

@@ -6,6 +6,28 @@
       "correo"
     ]
   },
+  "dineromail": {
+    "keywords": [
+      "dinero mail",
+      "payment",
+      "money"
+    ]
+  },
+  "dineromail-dm": {
+    "keywords": [
+      "dinero mail",
+      "payment",
+      "dm"
+    ]
+  },
+  "ml": {
+    "keywords": [
+      "ml",
+      "mercado libre",
+      "mercadolibre",
+      "sell"
+    ]
+  },
   "ml-hands": {
     "keywords": [
       "hands",
@@ -27,6 +49,20 @@
       "mail",
       "shipping",
       "correo"
+    ]
+  },
+  "olx": {
+    "keywords": [
+      "olx",
+      "sell"
+    ]
+  },
+  "pagomiscuentas": {
+    "keywords": [
+      "pago mis cuentas",
+      "payment",
+      "p letter",
+      "banelco"
     ]
   },
   "taringa": {

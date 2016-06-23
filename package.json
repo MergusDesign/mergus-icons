@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2",
+  "version": "0.9.0beta",
   "name": "mergus-icons",
-  "description": "A icon set from mergus",
-  "homepage": "",
+  "description": "mergus-icons it's a hard-to-get set of scalable icons commonly used in Argentina",
+  "homepage": "https://github.com/MergusDesign/mergus-icons",
   "author": "Mergus Design",
   "license": "MIT",
   "style": "index.scss",
@@ -13,10 +13,11 @@
     "lib",
     "build"
   ],
-  "repository": "h",
-  "bugs": {
-    "url": ""
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/MergusDesign/mergus-icons.git"
   },
+  "bugs": "https://github.com/MergusDesign/mergus-icons/issues",
   "scripts": {
     "setup": "script/bootstrap-ubuntu.sh",
     "build": "npm run setup && grunt",
