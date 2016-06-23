@@ -1,8 +1,8 @@
 {
-  "version": "0.0.2",
+  "version": "1.0",
   "name": "mergus-icons",
-  "description": "A icon set from mergus",
-  "homepage": "",
+  "description": "mergus-icons it's a hard-to-get set of scalable icons commonly used in Argentina",
+  "homepage": "https://github.com/MergusDesign/mergus-icons",
   "author": "Mergus Design",
   "license": "MIT",
   "style": "index.scss",
