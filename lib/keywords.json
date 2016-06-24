@@ -19,6 +19,20 @@
       "payment",
       "dm"
     ]
+  "mate": {
+    "keywords": [
+      "mate",
+      "infusion"
+    ]
+  },
+  "mergus": {
+    "keywords": [
+      "mergus",
+      "design",
+      "duck",
+      "hexagon"
+    ]
+  },
   },
   "ml": {
     "keywords": [
@@ -34,14 +48,6 @@
       "mercado libre",
       "mercadolibre",
       "sell"
-    ]
-  },
-  "mergus": {
-    "keywords": [
-      "mergus",
-      "design",
-      "duck",
-      "hexagon"
     ]
   },
   "oca": {

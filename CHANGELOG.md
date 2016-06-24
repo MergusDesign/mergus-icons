@@ -1,4 +1,5 @@
 ### HEAD
+- add mate icon
 
 ### 0.9.0beta (June 23, 2016)
 - add images to readme
