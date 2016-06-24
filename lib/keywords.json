@@ -19,6 +19,7 @@
       "payment",
       "dm"
     ]
+  },
   "mate": {
     "keywords": [
       "mate",
@@ -32,7 +33,6 @@
       "duck",
       "hexagon"
     ]
-  },
   },
   "ml": {
     "keywords": [
@@ -61,6 +61,12 @@
     "keywords": [
       "olx",
       "sell"
+    ]
+  },
+  "patente": {
+    "keywords": [
+      "patente mercosur",
+      "car plate"
     ]
   },
   "pagomiscuentas": {

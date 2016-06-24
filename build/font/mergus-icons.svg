@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Fri Jun 24 14:18:23 2016
+Created by FontForge 20160405 at Fri Jun 24 16:05:16 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -15,10 +15,10 @@ Created by FontForge 20160405 at Fri Jun 24 14:18:23 2016
     panose-1="2 0 5 9 0 0 0 0 0 0"
     ascent="84"
     descent="-12"
-    bbox="1 -11 95 83"
+    bbox="0 -11 96 83"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-E849"
+    unicode-range="U+E83F-E84A"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -59,5 +59,11 @@ l-3 -2l-8 -6v-3h6q-2 -6 -2 -13q0 -18 13 -30.5t31 -12.5t30.5 12.5t12.5 30.5t-12.5
 d="M78 62h11l-6 -38h12l-2 -11h-24zM32 54q7 0 10 -6h2q5 7 14 6q4 0 7 -2.5t3 -5.5q-3 -21 -6 -33h-12l2 8t1.5 8.5t1.5 7.5q1 8 -4 8q-8 1 -14 -32h-11q0 4 1.5 12t2.5 12q1 8 -3 8q-9 0 -14 -32h-12q7 35 7 37v4h11v-3v-3v0q6 6 13 6z" />
     <glyph glyph-name="mate" unicode="&#xe849;" 
 d="M75 83l4 -3q-6 -8 -13 -23q-1 -1 -3 -6h2q1 -2 3 -6.5t4.5 -14t2.5 -14.5q-2 -15 -13 -22q-1 -1 -4 -2q3 -2 4 -3h-32l3 3l-4 2q-11 7 -12 22q-1 5 1.5 14t5.5 15l2 6h31q2 5 4 8q7 17 14 24z" />
+    <glyph glyph-name="patente" unicode="&#xe84a;" 
+d="M4 62h88q4 0 4 -6v-40q0 -6 -4 -6h-88q-4 0 -4 6v40q0 6 4 6zM3 47v-31q0 -2 2 -2h87q1 0 1 2v31h-90zM9 20h-2l4 21h3l4 -21h-3l-1 5h-4zM12 37l-1 -8h3zM19 20v21h6q1 0 2 -1.5t1 -3.5v-2t-0.5 -1.5l-1.5 -1.5q2 0 2.5 -1.5t0.5 -3.5q0 -3 -1 -4.5t-3 -1.5h-6zM22 38
+v-5h2q2 0 2 2q0 1 -0.5 1.5t-0.5 1t-1 0.5h-2zM22 30v-6h2q2 0 2 2v2t-0.5 1.5t-1.5 0.5h-2zM40 20h-3v17l-1.5 -1.5l-1.5 -1.5v4q1 0 2 1.5l1 1.5h3v-21zM44 35h-2q0 1 0.5 2l1 2t1 1.5t1.5 0.5q2 0 3.5 -1.5t1.5 -3.5v-1.5t-0.5 -1t-0.5 -1v-0.5l-0.5 -0.5t-0.5 -1.5
+l-1 -1l-2 -5h5v-4h-9v3l5 8q0 1 0.5 1.5t0.5 1v1.5t-0.5 2t-1.5 1t-1.5 -1t-0.5 -2v0zM56 29v4h1q1 0 1.5 0.5t0.5 2t-0.5 2t-1.5 0.5t-1.5 -1t-0.5 -2h-2q0 3 1 4.5t3 1.5t3 -1.5t1 -3.5t-0.5 -3t-1.5 -2h0.5t1 -0.5t0.5 -1t0.5 -1.5t0.5 -2q0 -3 -1.5 -4.5t-3.5 -1.5
+q-1 0 -2 0.5t-1.5 1.5l-1 2t-0.5 2h3q0 -1 0.5 -2t1.5 -1t1.5 1t0.5 2.5t-0.5 2t-1.5 0.5h-1zM70 32v-3q0 -2 0.5 -3.5t1.5 -1.5t2 1t1 3h2v-1q0 -3 -1.5 -5t-3.5 -2t-3.5 2.5t-1.5 6.5v3q0 4 1.5 6.5t3.5 2.5t3.5 -2t1.5 -5h-2q0 1 -1 2.5t-2 1.5t-1.5 -1t-0.5 -2v-3z
+M79 41h5q1 0 2 -0.5t2 -2t1 -3.5v-4.5v-4t-1 -3t-2 -2.5t-2 -1h-5v21zM82 38v-14h1q2 0 3 1.5t1 5.5v2t-0.5 2t-1 1.5l-1 1t-1.5 0.5h-1z" />
   </font>
 </defs></svg>
