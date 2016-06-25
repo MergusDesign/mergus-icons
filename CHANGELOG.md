@@ -1,6 +1,7 @@
 ### HEAD
 - add mate icon
 - add patente mercosur icon
+- add yerba icon
 
 ### 0.9.0beta (June 23, 2016)
 - add images to readme
