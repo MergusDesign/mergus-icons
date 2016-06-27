@@ -8,7 +8,7 @@
 
 <p align="center">mergus-icons it's a hard-to-get set of scalable icons comonly used in Argentina
 <br>
-<strong>v0.9.0beta</strong></p>
+<strong>v0.9.1beta</strong></p>
 
 <table>
   <tr align="center">
@@ -24,16 +24,20 @@
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail-dm.svg" height="32" width="32">
       <p>mgi-dineromail-dm</p>
     </td>
+    <td id="mate" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mate.svg" height="32" width="32">
+      <p>mgi-mate</p>
+    </td>
     <td id="ml" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml.svg" height="32" width="32">
       <p>mgi-ml</p>
     </td>
+  </tr>
+  <tr align="center">
     <td id="ml-hands" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg" height="32" width="32">
       <p>mgi-ml-hands</p>
     </td>
-  </tr>
-  <tr align="center">
     <td id="mergus" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg" height="32" width="32">
       <p>mgi-mergus</p>
@@ -50,9 +54,23 @@
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pagomiscuentas.svg" height="32" width="32">
       <p>mgi-pagomiscuentas</p>
     </td>
+  </tr>
+  <tr align="center">
+    <td id="patente-sq" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/patente-sq.svg" height="32" width="32">
+      <p>mgi-patente-sq</p>
+    </td>
+    <td id="patente" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/patente.svg" height="32" width="32">
+      <p>mgi-patente</p>
+    </td>
     <td id="taringa" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg" height="32" width="32">
       <p>mgi-taringa</p>
+    </td>
+    <td id="yerba" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/yerba.svg" height="32" width="32">
+      <p>mgi-yerba</p>
     </td>
   </tr>
 </table>
