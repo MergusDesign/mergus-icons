@@ -20,6 +20,20 @@
       "dm"
     ]
   },
+  "mate": {
+    "keywords": [
+      "mate",
+      "infusion"
+    ]
+  },
+  "mergus": {
+    "keywords": [
+      "mergus",
+      "design",
+      "duck",
+      "hexagon"
+    ]
+  },
   "ml": {
     "keywords": [
       "ml",
@@ -36,14 +50,6 @@
       "sell"
     ]
   },
-  "mergus": {
-    "keywords": [
-      "mergus",
-      "design",
-      "duck",
-      "hexagon"
-    ]
-  },
   "oca": {
     "keywords": [
       "mail",
@@ -55,6 +61,19 @@
     "keywords": [
       "olx",
       "sell"
+    ]
+  },
+  "patente-sq": {
+    "keywords": [
+      "patente mercosur",
+      "square plate",
+      "motorcycle plate"
+    ]
+  },
+  "patente": {
+    "keywords": [
+      "patente mercosur",
+      "car plate"
     ]
   },
   "pagomiscuentas": {
@@ -69,6 +88,12 @@
     "keywords": [
       "taringa icon",
       "t"
+    ]
+  },
+  "yerba": {
+    "keywords": [
+      "yerba mate",
+      "pack"
     ]
   }
 }
