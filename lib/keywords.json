@@ -34,9 +34,16 @@
       "hexagon"
     ]
   },
-  "ml": {
+  "mhands": {
     "keywords": [
-      "ml",
+      "hands",
+      "mercado libre",
+      "mercadolibre",
+      "sell"
+    ]
+  },
+  "mlibre": {
+    "keywords": [
       "mercado libre",
       "mercadolibre",
       "sell"
@@ -47,14 +54,6 @@
       "mercado pago",
       "mercadopago",
       "payment"
-    ]
-  },
-  "mhands": {
-    "keywords": [
-      "hands",
-      "mercado libre",
-      "mercadolibre",
-      "sell"
     ]
   },
   "oca": {
