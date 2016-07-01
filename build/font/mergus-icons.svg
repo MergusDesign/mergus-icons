@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Mon Jun 27 16:35:05 2016
+Created by FontForge 20160405 at Fri Jul  1 08:54:19 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20160405 at Mon Jun 27 16:35:05 2016
     bbox="0 -12 96 84"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-E84C"
+    unicode-range="U+E83F-E84D"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -74,5 +74,11 @@ M46 58v-7h3q3 0 3 4q0 1 -0.5 1.5l-1 1t-1.5 0.5h-3zM46 46v-8h3q4 0 4 4q0 1 -0.5 2
 l-0.5 -1l-4 -7v-1h8v-5h-13v4l7 12q0 1 0.5 1.5t1 1.5t0.5 3q0 1 -1 2.5t-2 1.5t-2 -1.5t-1 -3.5v0zM33 9v5h2q1 0 2 1t1 3t-1 3t-2 1t-1.5 -1.5t-0.5 -2.5h-4q0 4 1.5 6.5t4.5 2.5t5 -2.5t2 -5.5t-1 -5t-3 -2q1 0 1.5 -0.5l1 -1t1 -1.5t0.5 -2v-2q0 -4 -2 -6.5t-5 -2.5
 q-1 0 -2.5 0.5t-2 2l-1 3t-0.5 3.5h3q0 -2 1 -3t2.5 -1t2.5 1t0.5 3t-1 3t-2.5 1h-2zM54 13v-4q0 -4 1 -6t2.5 -2t2.5 1.5t1 4.5h3v-1q0 -4 -1.5 -7t-5.5 -3q-3 0 -5 3.5t-2 9.5v4q0 6 2 10t5 4q4 0 5.5 -3t1.5 -8v-1h-3q0 3 -1 4.5t-3 1.5q-1 0 -2 -1t-1 -2.5v-4.5zM67 26
 h7q2 0 3.5 -1t2.5 -3t1.5 -4.5t0.5 -6t-0.5 -6.5t-1.5 -5t-2.5 -3t-3.5 -1h-7v30zM71 21v-20h2q3 0 4 2.5t1 7.5v3.5t-0.5 2.5l-1 2t-1 1.5t-2.5 0.5h-2z" />
+    <glyph glyph-name="mpago" unicode="&#xe84d;" 
+d="M76 52v4q0 3 4 1v-11q0 -5 -6 -5t-6 6t5 7q3 0 3 -2zM58 53q-2 -1 -2 -3l3 -1q0 2 3 2t1 -2l-2 -1q-4 0 -5 -2q-2 -3 2 -5q2 -1 5 0t4 3v5q0 3 -1.5 4t-3.5 1t-4 -1zM86.5 54q-6.5 0 -6 -6.5t6.5 -6.5t6 6.5t-6.5 6.5zM8 54q-5 0 -5 -6v-7h3v7q0 3 2 3t2 -3v-7h3v7
+q0 3 2.5 3t2.5 -3v-7h3v7q0 6 -6 6q-2 0 -3 -2q-2 2 -4 2zM28 54q-6 0 -6 -7q0 -6 6 -6t6 3h-4q0 -1 -2 -1q-3 0 -3 3h9q0 8 -6 8zM49 54q-6 0 -6 -7q0 -6 6 -6q5 0 6 5h-4q0 -3 -2 -3t-2.5 4t2.5 4q2 0 2 -2h4q0 5 -6 5zM43 54q-7 0 -8 -7v-6h4v6q0 3 4 3v4zM87 51
+q3 0 3 -4t-3 -4t-3 4t3 4zM28 51q3 0 3 -3h-6q0 3 3 3zM76 47q0 -4 -2.5 -4t-2.5 4t3 4q2 0 2 -4zM64 45q-1 -2 -3 -2q-3 0 -2 2q1 1 4 2q1 -1 1 -2zM39.5 37q2.5 0 4.5 -1.5t2 -4.5v-6q0 -3 -4 -4t-7 0q-4 2 -2 7q1 2 6 2l3 1q2 2 -1.5 2.5t-3.5 -2.5l-4 1q1 3 2 4
+q2 1 4.5 1zM71 37q8 0 8 -8t-8 -8q-7 0 -7 7q0 9 7 9zM52 36q2 1 3 1q4 0 6 -3q1 -2 1 -10q0 -6 -2.5 -8t-6 -1.5t-4.5 3.5q-1 1 0 1.5t2 0.5q1 -2 3 -2q4 1 4 4q-2 -1 -3 -1q-3 0 -5 2q-3 2 -2 7q0 5 4 6zM23 37h3q3 -1 5 -4q2 -5 -1 -9q-2 -4 -6 -3l-3 2v-5q0 -2 -3 -2
+q-1 0 -1 4v12q0 4 6 5zM71.5 34q-3.5 0 -3.5 -5t3.5 -5t3.5 5t-3.5 5zM24 33q-3 0 -3 -4q0 -5 3 -5q4 0 4 5q0 4 -4 4zM55 33q-3 0 -3 -4q-1 -2 0.5 -3.5t2.5 -1.5q3 1 3 6q0 4 -3 3zM42 28v-2q0 -3 -3 -2q-4 0 -2 2q0 1 5 2z" />
   </font>
 </defs></svg>

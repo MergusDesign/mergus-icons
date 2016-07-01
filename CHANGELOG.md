@@ -1,4 +1,6 @@
 ### HEAD
+- add icon mercado pago
+
 ### 0.9.1beta (June 27, 2016)
 - add mate icon
 - add patente mercosur icon

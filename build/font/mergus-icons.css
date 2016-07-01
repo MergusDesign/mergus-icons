@@ -1,12 +1,12 @@
 
 @font-face {
   font-family:"Mergus-icons";
-  src:url("mergus-icons.eot?281ce4cb14e55a36b02b05ad8850f3b6");
+  src:url("mergus-icons.eot?82b61d482ee398d735c0155915fdc215");
   src:url("mergus-icons.eot?#iefix") format("embedded-opentype"),
-		url("mergus-icons.woff2?281ce4cb14e55a36b02b05ad8850f3b6") format("woff2"),
-		url("mergus-icons.woff?281ce4cb14e55a36b02b05ad8850f3b6") format("woff"),
-		url("mergus-icons.ttf?281ce4cb14e55a36b02b05ad8850f3b6") format("truetype"),
-		url("mergus-icons.svg?281ce4cb14e55a36b02b05ad8850f3b6#mergus-icons") format("svg");
+		url("mergus-icons.woff2?82b61d482ee398d735c0155915fdc215") format("woff2"),
+		url("mergus-icons.woff?82b61d482ee398d735c0155915fdc215") format("woff"),
+		url("mergus-icons.ttf?82b61d482ee398d735c0155915fdc215") format("truetype"),
+		url("mergus-icons.svg?82b61d482ee398d735c0155915fdc215#mergus-icons") format("svg");
   font-weight:normal;
   font-style:normal;
 }
@@ -41,6 +41,8 @@
 .mgi-ml-hands:before { content:"\e843"; }
 
 .mgi-ml:before { content:"\e848"; }
+
+.mgi-mpago:before { content:"\e84d"; }
 
 .mgi-oca:before { content:"\e841"; }
 
