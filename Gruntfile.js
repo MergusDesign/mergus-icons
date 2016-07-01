@@ -90,6 +90,7 @@ module.exports = function(grunt) {
         descent: 12,
         htmlDemo: false,
         codepointsFile: 'lib/font/codepoints.json',
+        optimize:false,
         templateOptions: {
           baseClass: 'mgi',
           classPrefix: 'mgi-',
