@@ -6,9 +6,11 @@
 </span>
 </p>
 
-<p align="center">mergus-icons it's a hard-to-get set of scalable icons comonly used in Argentina
+<p align="center">mergus-icons it's a hard-to-get set of scalable icons commonly used in Argentina
 <br>
-<strong>v0.9.1beta</strong></p>
+mergus-icons is a Free and Open Source project.
+<br>
+<strong>v1.0.0</strong></p>
 
 <table>
   <tr align="center">
@@ -16,31 +18,35 @@
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg" height="32" width="32">
       <p>mgi-correoarg</p>
     </td>
-    <td id="dineromail" style="padding: 1em">
-      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail.svg" height="32" width="32">
-      <p>mgi-dineromail</p>
+    <td id="dinmail" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dinmail.svg" height="32" width="32">
+      <p>mgi-dinmail</p>
     </td>
-    <td id="dineromail-dm" style="padding: 1em">
-      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dineromail-dm.svg" height="32" width="32">
-      <p>mgi-dineromail-dm</p>
+    <td id="dinmail-dm" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dinmail-dm.svg" height="32" width="32">
+      <p>mgi-dinmail-dm</p>
     </td>
     <td id="mate" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mate.svg" height="32" width="32">
       <p>mgi-mate</p>
     </td>
-    <td id="ml" style="padding: 1em">
-      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml.svg" height="32" width="32">
-      <p>mgi-ml</p>
-    </td>
-  </tr>
-  <tr align="center">
-    <td id="ml-hands" style="padding: 1em">
-      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/ml-hands.svg" height="32" width="32">
-      <p>mgi-ml-hands</p>
-    </td>
     <td id="mergus" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg" height="32" width="32">
       <p>mgi-mergus</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td id="mhands" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mhands.svg" height="32" width="32">
+      <p>mgi-mhands</p>
+    </td>
+    <td id="mlibre" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mlibre.svg" height="32" width="32">
+      <p>mgi-mlibre</p>
+    </td>
+    <td id="mpago" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mpago.svg" height="32" width="32">
+      <p>mgi-mpago</p>
     </td>
     <td id="oca" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg" height="32" width="32">
@@ -50,12 +56,12 @@
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/olx.svg" height="32" width="32">
       <p>mgi-olx</p>
     </td>
-    <td id="pagomiscuentas" style="padding: 1em">
-      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pagomiscuentas.svg" height="32" width="32">
-      <p>mgi-pagomiscuentas</p>
-    </td>
   </tr>
   <tr align="center">
+    <td id="pmc" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pmc.svg" height="32" width="32">
+      <p>mgi-pmc</p>
+    </td>
     <td id="patente-sq" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/patente-sq.svg" height="32" width="32">
       <p>mgi-patente-sq</p>
@@ -96,7 +102,7 @@ All icons require the class **mgi** as base, followed by the individual icon cla
 	<i class="mgi mgi-mergus mgi-lg"></i>
 
 *Tip:*
-You can also use the svg files individually, you can find them in the folder [/build/svg](https://github.com/MergusDesign/mergus-icons/tree/master/build/svg) .
+You can also use the svg files individually, you can find them in the folder [/lib/svg](https://github.com/MergusDesign/mergus-icons/tree/master/lib/svg) .
 
 ###Helper classes
 
@@ -120,6 +126,11 @@ Use **mgi-flip-horizontal** and **mgi-flip-vertical** to make icons flip horizon
 
 - **Accessibility:** **sr-only** allows to add alternative information such as displays and text for screen readers.
 
+You can also change the icons color through CSS, like with any font:
+
+	body {
+	    color: blue;
+	}
 
 ###Request an icon? Yes, sure!
 Just open an [**issue**](https://github.com/MergusDesign/mergus-icons/issues) with the "new icon" label. The more information and references you leave us, the better!
