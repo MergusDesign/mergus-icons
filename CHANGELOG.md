@@ -1,5 +1,6 @@
 ### HEAD
 - add icon mercado pago
+- fix icon mercado logo hands
 
 ### 0.9.1beta (June 27, 2016)
 - add mate icon
