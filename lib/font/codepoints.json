@@ -1,16 +1,20 @@
 {
     "correoarg": 59458,
-    "dineromail": 59463,
-    "dineromail-dm": 59462,
-    "ml": 59464,
-    "ml-hands": 59459,
+    "dinmail": 59463,
+    "dinmail-dm": 59462,
+    "mhands": 59459,
+    "mlibre": 59464,
+    "mpago": 59469,
     "mate": 59465,
     "mergus": 59455,
     "oca": 59457,
     "olx": 59461,
     "patente-sq": 59468,
     "patente": 59466,
-    "pagomiscuentas": 59460,
+    "pmc": 59460,
     "taringa": 59456,
-    "yerba": 59467
+    "yerba": 59467,
+    "ml": 61697,
+    "mpago-old": 61698,
+    "mpago2": 61699
 }
