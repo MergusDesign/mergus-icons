@@ -22,6 +22,6 @@
     "**/.*",
     "bower_components"
   ],
-  "version": "v0.9.1-beta",
+  "version": "v1.0.0",
   "homepage": "https://github.com/MergusDesign/mergus-icons"
 }
