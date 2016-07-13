@@ -1,12 +1,12 @@
 
 @font-face {
   font-family:"Mergus-icons";
-  src:url("mergus-icons.eot?a102905ab90ce8a41021d3bfd614e861");
+  src:url("mergus-icons.eot?2fb8bf935a769273c43d4830c3ebd9b7");
   src:url("mergus-icons.eot?#iefix") format("embedded-opentype"),
-		url("mergus-icons.woff2?a102905ab90ce8a41021d3bfd614e861") format("woff2"),
-		url("mergus-icons.woff?a102905ab90ce8a41021d3bfd614e861") format("woff"),
-		url("mergus-icons.ttf?a102905ab90ce8a41021d3bfd614e861") format("truetype"),
-		url("mergus-icons.svg?a102905ab90ce8a41021d3bfd614e861#mergus-icons") format("svg");
+		url("mergus-icons.woff2?2fb8bf935a769273c43d4830c3ebd9b7") format("woff2"),
+		url("mergus-icons.woff?2fb8bf935a769273c43d4830c3ebd9b7") format("woff"),
+		url("mergus-icons.ttf?2fb8bf935a769273c43d4830c3ebd9b7") format("truetype"),
+		url("mergus-icons.svg?2fb8bf935a769273c43d4830c3ebd9b7#mergus-icons") format("svg");
   font-weight:normal;
   font-style:normal;
 }
@@ -55,6 +55,8 @@
 .mgi-pmc:before { content:"\e844"; }
 
 .mgi-taringa:before { content:"\e840"; }
+
+.mgi-tnaranja:before { content:"\e84e"; }
 
 .mgi-yerba:before { content:"\e84b"; }
 

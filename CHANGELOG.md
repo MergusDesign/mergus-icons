@@ -1,4 +1,7 @@
 ### HEAD
+- add icon tarjeta naranja
+
+
 ### 1.0.0 (June 27, 2016)
 - add icon mercado pago
 - fix icon mercado logo hands
