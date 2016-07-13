@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Wed Jul 13 10:50:42 2016
+Created by FontForge 20160405 at Wed Jul 13 15:32:16 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20160405 at Wed Jul 13 10:50:42 2016
     bbox="0 -12 96 84"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-E84E"
+    unicode-range="U+E83F-F104"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -89,5 +89,9 @@ d="M85 84q8 0 9 -7v-80q0 -5 -2.5 -7t-4.5 -2h-3q-2 1 -6.5 1.5t-16 3t-21 4.5t-18.5
 q2 -1 4 -1q3 0 4 2q0 -2 2 -2h1v3v4v1q0 6 -6 6zM44 29l-3 -2v2h-4v-14h4v5q0 6 3 6h1v3h-1zM51 29q-3 0 -5 -1v-3q2 2 4 2q3 0 3 -3h-1q-3 0 -5 -1t-2 -4q0 -4 4 -4q3 0 5 2q0 -2 2 -2h1v3v4v1q0 6 -6 6zM66 29q-3 0 -4 -2v2h-5l3 -14l2 1v6q0 4 3 4q2 0 2 -3v-8h4v9
 q0 5 -5 5zM83 29q-2 0 -4 -1v-3q2 2 4 2q3 0 3 -3h-2q-3 0 -4 -1q-1 0 -2 -1l2 -7h2q3 0 4 2q0 -1 2 -2h1v3v4v1q0 6 -6 6zM73 29v-16q0 -2 -2 -2v-1h1q4 0 4 5v14h-3zM31 22q-4 0 -4 -3q0 -1 3 -1q1 0 2 1t1 3h-2zM52 22q-4 0 -4 -3q0 -1 2 -1t3 1v3h-1zM85 22q-4 0 -4 -3
 q0 -1 2 -1q1 0 2 1t1 3h-1z" />
+    <glyph glyph-name="tmacro" unicode="&#xf104;" 
+d="M6 76h84q6 0 6 -6v-68q0 -6 -6 -6h-84q-6 0 -6 6v68q0 6 6 6zM48 69q-19 0 -27.5 -12.5t-7.5 -22.5h10v2.5t1.5 5.5t3.5 7t7.5 6t12.5 4q11 -1 17.5 -7t6.5 -12l1 -6h10q1 9 -7.5 22t-27.5 13zM48.5 56.5q-12.5 -0.5 -18 -8.5t-4.5 -14h10q-1 3 2 7.5t10 4.5q12 0 13 -12
+h10q1 6 -4.5 14.5t-18 8zM48 44q-10 0 -10 -10q0 -3 1.5 -5.5t3.5 -3.5t5 -1q4 0 7 3t3 7t-3 7t-7 3v0zM19 21v-14h2v2l1 10l3 -12h3l3 12h1v-12h3l-1 14h-4l-3 -10l-3 10h-5zM42 18h-3h-2v-2h4q3 0 3 -2h-2q-5 0 -5 -3.5t4 -3.5h3h2v8q0 4 -4 3zM53 18q-5 0 -5 -4v-2
+q0 -5 5 -5h2h2v2h-1h-1q-4 0 -4 3v2q0 2 6 2v2h-4zM71.5 18q-5.5 0 -5.5 -5.5t6 -5.5h1q4 0 4 5v1q0 5 -5.5 5zM65 18q-1 0 -3 -1v1h-3v-11h3v8q1 1 3 1h1v2h-1zM72 16q-3 0 -3 -3v-1q0 -3 3 -3t3 3.5t-3 3.5zM41 12q-1 0 -1 -1q0 -2 1 -2h2h1v3h-3z" />
   </font>
 </defs></svg>

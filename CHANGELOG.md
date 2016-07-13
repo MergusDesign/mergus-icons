@@ -1,4 +1,5 @@
 ### HEAD
+- add icon tarjeta macro
 - add icon tarjeta naranja
 
 
