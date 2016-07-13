@@ -74,6 +74,19 @@ mergus-icons is a Free and Open Source project.
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg" height="32" width="32">
       <p>mgi-taringa</p>
     </td>
+      <td id="tmacro" style="padding: 1em">
+        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tmacro.svg" height="32" width="32">
+        <p>mgi-tmacro</p>
+      </td>
+    </tr>
+    <tr align="center">
+      <td id="tnaranja" style="padding: 1em">
+        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tnaranja.svg" height="32" width="32">
+        <p>mgi-tnaranja</p>
+      </td>
+      <td id="tnativa" style="padding: 1em">
+        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tnativa.svg" height="32" width="32">
+        <p>mgi-tnativa</p>
     <td id="yerba" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/yerba.svg" height="32" width="32">
       <p>mgi-yerba</p>
