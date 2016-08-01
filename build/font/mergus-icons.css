@@ -1,12 +1,12 @@
 
 @font-face {
   font-family:"Mergus-icons";
-  src:url("mergus-icons.eot?5ccb433c76d317b7afc1074855963079");
+  src:url("mergus-icons.eot?febda85d957acd00d0597829d61e3b71");
   src:url("mergus-icons.eot?#iefix") format("embedded-opentype"),
-		url("mergus-icons.woff2?5ccb433c76d317b7afc1074855963079") format("woff2"),
-		url("mergus-icons.woff?5ccb433c76d317b7afc1074855963079") format("woff"),
-		url("mergus-icons.ttf?5ccb433c76d317b7afc1074855963079") format("truetype"),
-		url("mergus-icons.svg?5ccb433c76d317b7afc1074855963079#mergus-icons") format("svg");
+		url("mergus-icons.woff2?febda85d957acd00d0597829d61e3b71") format("woff2"),
+		url("mergus-icons.woff?febda85d957acd00d0597829d61e3b71") format("woff"),
+		url("mergus-icons.ttf?febda85d957acd00d0597829d61e3b71") format("truetype"),
+		url("mergus-icons.svg?febda85d957acd00d0597829d61e3b71#mergus-icons") format("svg");
   font-weight:normal;
   font-style:normal;
 }
@@ -55,6 +55,8 @@
 .mgi-pmc:before { content:"\e844"; }
 
 .mgi-pokeball:before { content:"\f102"; }
+
+.mgi-subemis:before { content:"\f103"; }
 
 .mgi-taringa:before { content:"\e840"; }
 
