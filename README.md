@@ -14,6 +14,14 @@ mergus-icons is a Free and Open Source project.
 
 <table>
   <tr align="center">
+    <td id="clubcdn" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/clubcdn.svg" height="32" width="32">
+      <p>mgi-clubcdn</p>
+    </td>
+    <td id="clubgaf" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/clubgaf.svg" height="32" width="32">
+      <p>mgi-clubgaf</p>
+    </td>
     <td id="correoarg" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/correoarg.svg" height="32" width="32">
       <p>mgi-correoarg</p>
@@ -26,6 +34,8 @@ mergus-icons is a Free and Open Source project.
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/dinmail-dm.svg" height="32" width="32">
       <p>mgi-dinmail-dm</p>
     </td>
+  </tr>
+  <tr align="center">
     <td id="mate" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mate.svg" height="32" width="32">
       <p>mgi-mate</p>
@@ -34,8 +44,6 @@ mergus-icons is a Free and Open Source project.
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mergus.svg" height="32" width="32">
       <p>mgi-mergus</p>
     </td>
-  </tr>
-  <tr align="center">
     <td id="mhands" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mhands.svg" height="32" width="32">
       <p>mgi-mhands</p>
@@ -48,6 +56,8 @@ mergus-icons is a Free and Open Source project.
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/mpago.svg" height="32" width="32">
       <p>mgi-mpago</p>
     </td>
+  </tr>
+  <tr align="center">
     <td id="oca" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/oca.svg" height="32" width="32">
       <p>mgi-oca</p>
@@ -56,11 +66,23 @@ mergus-icons is a Free and Open Source project.
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/olx.svg" height="32" width="32">
       <p>mgi-olx</p>
     </td>
-  </tr>
-  <tr align="center">
     <td id="pmc" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pmc.svg" height="32" width="32">
       <p>mgi-pmc</p>
+    </td>
+    <td id="pokeball" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/pokeball.svg" height="32" width="32">
+      <p>mgi-pokeball</p>
+    </td>
+    <td id="sintacc" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/sintacc.svg" height="32" width="32">
+      <p>mgi-sintacc</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td id="subemis" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/subemis.svg" height="32" width="32">
+      <p>mgi-subemis</p>
     </td>
     <td id="patente-sq" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/patente-sq.svg" height="32" width="32">
@@ -74,19 +96,20 @@ mergus-icons is a Free and Open Source project.
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/taringa.svg" height="32" width="32">
       <p>mgi-taringa</p>
     </td>
-      <td id="tmacro" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tmacro.svg" height="32" width="32">
-        <p>mgi-tmacro</p>
-      </td>
-    </tr>
-    <tr align="center">
-      <td id="tnaranja" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tnaranja.svg" height="32" width="32">
-        <p>mgi-tnaranja</p>
-      </td>
-      <td id="tnativa" style="padding: 1em">
-        <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tnativa.svg" height="32" width="32">
-        <p>mgi-tnativa</p>
+    <td id="tmacro" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tmacro.svg" height="32" width="32">
+      <p>mgi-tmacro</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td id="tnaranja" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tnaranja.svg" height="32" width="32">
+      <p>mgi-tnaranja</p>
+    </td>
+    <td id="tnativa" style="padding: 1em">
+      <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/tnativa.svg" height="32" width="32">
+      <p>mgi-tnativa</p>
+    </td>
     <td id="yerba" style="padding: 1em">
       <img src="https://cdn.rawgit.com/MergusDesign/mergus-icons/master/lib/svg/yerba.svg" height="32" width="32">
       <p>mgi-yerba</p>
