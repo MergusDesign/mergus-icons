@@ -1,12 +1,12 @@
 
 @font-face {
   font-family:"Mergus-icons";
-  src:url("mergus-icons.eot?5406fe0d6fb83f5402d2cd6b374580ed");
+  src:url("mergus-icons.eot?5c861c54ba22d26f6e1f32d317bff65c");
   src:url("mergus-icons.eot?#iefix") format("embedded-opentype"),
-		url("mergus-icons.woff2?5406fe0d6fb83f5402d2cd6b374580ed") format("woff2"),
-		url("mergus-icons.woff?5406fe0d6fb83f5402d2cd6b374580ed") format("woff"),
-		url("mergus-icons.ttf?5406fe0d6fb83f5402d2cd6b374580ed") format("truetype"),
-		url("mergus-icons.svg?5406fe0d6fb83f5402d2cd6b374580ed#mergus-icons") format("svg");
+		url("mergus-icons.woff2?5c861c54ba22d26f6e1f32d317bff65c") format("woff2"),
+		url("mergus-icons.woff?5c861c54ba22d26f6e1f32d317bff65c") format("woff"),
+		url("mergus-icons.ttf?5c861c54ba22d26f6e1f32d317bff65c") format("truetype"),
+		url("mergus-icons.svg?5c861c54ba22d26f6e1f32d317bff65c#mergus-icons") format("svg");
   font-weight:normal;
   font-style:normal;
 }
@@ -29,6 +29,8 @@
 }
 
 .mgi-clubcdn:before { content:"\f105"; }
+
+.mgi-clubgaf:before { content:"\f106"; }
 
 .mgi-correoarg:before { content:"\e842"; }
 
