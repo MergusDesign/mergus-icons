@@ -4,6 +4,7 @@
 - add icon tarjeta naranja
 - add icon pokeball
 - add icon sube misionero
+- add icon club crucero del norte
 
 
 ### 1.0.0 (June 27, 2016)

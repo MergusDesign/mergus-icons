@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160405 at Mon Aug  1 10:55:56 2016
+Created by FontForge 20160405 at Mon Aug  1 11:43:49 2016
  By Cecilia Schiebel,,,
 </metadata>
 <defs>
@@ -18,7 +18,7 @@ Created by FontForge 20160405 at Mon Aug  1 10:55:56 2016
     bbox="0 -12 96 84"
     underline-thickness="4"
     underline-position="-14"
-    unicode-range="U+E83F-F104"
+    unicode-range="U+E83F-F105"
   />
 <missing-glyph 
 d="M3 0v64h24v-64h-24zM6 3h18v58h-18v-58z" />
@@ -100,5 +100,10 @@ d="M49 84h30l-30 -31v31zM47 83v-15v-15h-31zM81 83v-31h-30zM16 51h31v-30zM49 51q6
 d="M6 76h84q6 0 6 -6v-68q0 -6 -6 -6h-84q-6 0 -6 6v68q0 6 6 6zM48 69q-19 0 -27.5 -12.5t-7.5 -22.5h10v2.5t1.5 5.5t3.5 7t7.5 6t12.5 4q11 -1 17.5 -7t6.5 -12l1 -6h10q1 9 -7.5 22t-27.5 13zM48.5 56.5q-12.5 -0.5 -18 -8.5t-4.5 -14h10q-1 3 2 7.5t10 4.5q12 0 13 -12
 h10q1 6 -4.5 14.5t-18 8zM48 44q-10 0 -10 -10q0 -3 1.5 -5.5t3.5 -3.5t5 -1q4 0 7 3t3 7t-3 7t-7 3v0zM19 21v-14h2v2l1 10l3 -12h3l3 12h1v-12h3l-1 14h-4l-3 -10l-3 10h-5zM42 18h-3h-2v-2h4q3 0 3 -2h-2q-5 0 -5 -3.5t4 -3.5h3h2v8q0 4 -4 3zM53 18q-5 0 -5 -4v-2
 q0 -5 5 -5h2h2v2h-1h-1q-4 0 -4 3v2q0 2 6 2v2h-4zM71.5 18q-5.5 0 -5.5 -5.5t6 -5.5h1q4 0 4 5v1q0 5 -5.5 5zM65 18q-1 0 -3 -1v1h-3v-11h3v8q1 1 3 1h1v2h-1zM72 16q-3 0 -3 -3v-1q0 -3 3 -3t3 3.5t-3 3.5zM41 12q-1 0 -1 -1q0 -2 1 -2h2h1v3h-3z" />
+    <glyph glyph-name="clubcdn" unicode="&#xf105;" 
+d="M48 82q15 0 25.5 -7.5t10.5 -18.5v-42q-8 -4 -17 -10t-14 -10l-5 -4q-17 16 -36 24v42q0 11 10.5 18.5t25.5 7.5zM48 79q-7 0 -13 -2t-11 -5q-9 -7 -9 -16v-40q12 -5 24 -15q5 -3 9 -7q4 4 9 7q12 10 24 15v40q0 9 -9 16q-5 3 -11 5t-13 2zM48 76q14 0 24 -6
+q10 -7 10 -16.5t-10 -16.5q-10 -6 -24 -6t-24 6q-10 7 -10 16.5t10 16.5q10 6 24 6zM48 74q-13 0 -22 -6t-9 -14.5t9 -14.5t22 -6t22 6t9 14.5t-9 14.5t-22 6zM41 66h1l-1 -1l-1 -6v-1h-1h-3h-2l-1 -9v-1h4h1v-1l-1 -6h-1h-9q-2 0 -3 1.5t0 4.5l3 15q0 2 1 3v0q1 1 3 1h10z
+M64 66l1 -5l1 5h6l-2 -9v0l-1 -8l-2 -9h-6l-1 5l-1 -5h-5l2 10l1 7l2 9h5zM44 66h8q4 0 3 -4l-3 -18q0 -4 -4 -4h-9zM47 59v-2l-1 -8l-1 -2h1q1 0 1.5 0.5l0.5 0.5v1l1 8v1q1 1 0 1h-2zM44 17l-3 -4l3 -4l-5 1l-2 -5l-1 5l-5 -1l3 4l-3 4l5 -1l1 5l2 -5zM31 31l-4 -3l4 -4
+l-5 1l-2 -5l-2 5l-5 -1l4 4l-4 3l5 -1l2 5l2 -5zM79 31l-4 -3l4 -4l-5 1l-2 -5l-2 5l-5 -1l4 4l-4 3l5 -1l2 5l2 -5zM65 17l-4 -4l4 -4l-5 1l-2 -5l-2 5l-5 -1l4 4l-4 4l5 -1l2 5l2 -5z" />
   </font>
 </defs></svg>
