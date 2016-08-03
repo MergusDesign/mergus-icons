@@ -1,4 +1,20 @@
 {
+  "clubcdn": {
+    "keywords": [
+      "club crucero del norte",
+      "crucero",
+      "misiones",
+      "futbol"
+    ]
+  },
+  "clubgaf": {
+    "keywords": [
+      "club guarani",
+      "guarani",
+      "misiones",
+      "futbol"
+    ]
+  },
   "correoarg": {
     "keywords": [
       "mail",
@@ -90,10 +106,52 @@
       "banelco"
     ]
   },
+  "pokeball": {
+    "keywords": [
+      "pokeball",
+      "pokemon",
+      "circle"
+    ]
+  },
+  "sintacc": {
+    "keywords": [
+      "sin tacc",
+      "apto celiaco",
+      "circle"
+    ]
+  },
+  "subemis": {
+    "keywords": [
+      "sube misionero",
+      "transporte",
+      "tarjeta"
+    ]
+  },
   "taringa": {
     "keywords": [
       "taringa icon",
       "t"
+    ]
+  },
+  "tmacro": {
+    "keywords": [
+      "tarjeta macro",
+      "payment",
+      "pago"
+    ]
+  },
+  "tnaranja": {
+    "keywords": [
+      "tarjeta naranja",
+      "payment",
+      "pago"
+    ]
+  },
+  "tnativa": {
+    "keywords": [
+      "tarjeta nativa",
+      "payment",
+      "pago"
     ]
   },
   "yerba": {

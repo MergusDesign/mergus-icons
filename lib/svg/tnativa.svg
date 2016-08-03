@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4928"
+   version="1.1"
+   inkscape:version="0.91 r"
+   viewBox="0 0 16 16"
+   sodipodi:docname="tnativa.svg">
+  <defs
+     id="defs4930">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,600 600,600 600,0 0,0 0,600 Z"
+         id="path18"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="8.156328"
+     inkscape:cy="12.696699"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 0.95703125 1.3144531 C 0.42688525 1.3144531 1.4802974e-16 1.7413378 0 2.2714844 L 0 13.728516 C 0 14.258662 0.42688525 14.685547 0.95703125 14.685547 L 15.042969 14.685547 C 15.573115 14.685547 16 14.258662 16 13.728516 L 16 2.2714844 C 16 1.7413378 15.573115 1.3144531 15.042969 1.3144531 L 0.95703125 1.3144531 z M 9.4199219 1.8300781 C 9.0447881 2.6424645 8.7469209 3.4465303 8.53125 4.2441406 C 8.1915184 5.4907061 8.0253906 6.7493244 8.0253906 8.0195312 C 8.0253906 9.2632003 8.1915195 10.51505 8.53125 11.773438 C 8.7468619 12.571106 9.0447871 13.369356 9.4199219 14.169922 C 9.0920711 13.673623 8.7971595 13.128915 8.53125 12.535156 L 8.4042969 12.228516 C 8.1502672 11.599292 7.9609474 10.998806 7.8398438 10.431641 C 7.6714552 9.6694934 7.5859375 8.86738 7.5859375 8.0195312 C 7.5859375 7.1480997 7.6714562 6.3352624 7.8398438 5.5878906 C 7.960948 5.0177722 8.1502672 4.420238 8.4042969 3.7910156 L 8.53125 3.4824219 C 8.820742 2.8531993 9.1156546 2.3027339 9.4199219 1.8300781 z M 7.0058594 3.3183594 L 7.6621094 5.5878906 C 7.4819603 6.4090835 7.3867188 7.2190249 7.3867188 8.0195312 C 7.3867187 8.8053207 7.4819601 9.6074932 7.6621094 10.431641 L 7.0058594 12.681641 L 7.0058594 10.285156 L 5.703125 12.373047 L 6.3886719 10.052734 L 4.5371094 11.755859 L 5.8652344 9.6894531 L 3.5957031 10.884766 L 5.4453125 9.1816406 L 2.9257812 9.8164062 L 5.1933594 8.6152344 L 2.5800781 8.6152344 L 5.1035156 8.0195312 L 2.5800781 7.3847656 L 5.1933594 7.4023438 L 2.9257812 6.2011719 L 5.4453125 6.8359375 L 3.5957031 5.1328125 L 5.8652344 6.328125 L 4.5371094 4.2617188 L 6.3886719 5.96875 L 5.703125 3.6445312 L 7.0058594 5.7324219 L 7.0058594 3.3183594 z "
+       id="rect4838" />
+  </g>
+</svg>
