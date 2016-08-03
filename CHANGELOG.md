@@ -1,4 +1,5 @@
 ### HEAD
+### 1.1.0 (August 03, 2016)
 - add icon tarjeta nativa
 - add icon tarjeta macro
 - add icon tarjeta naranja
@@ -7,7 +8,6 @@
 - add icon club crucero del norte
 - add icon club guarani
 - add icon sin t.a.c.c.
-
 
 ### 1.0.0 (June 27, 2016)
 - add icon mercado pago
