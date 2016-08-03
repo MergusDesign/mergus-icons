@@ -10,7 +10,7 @@
 <br>
 mergus-icons is a Free and Open Source project.
 <br>
-<strong>v1.0.0</strong></p>
+<strong>v1.1.0</strong></p>
 
 <table>
   <tr align="center">
